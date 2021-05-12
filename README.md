@@ -1,19 +1,22 @@
 
-Hello, I’m @federicagerminario31 
+#### Hello, I’m @federicagerminario31 ####
 
 I am currently attending a Double Degree Program between Politecnico di Torino and EURECOM. I have a Bachelor's Degree in Computer engineering and now I'm attending a Master's Degree in Digital Security. I am a member of IEEE-Eta Kappa Nu which is the Honor Society of IEEE. 
 
 Experience
 ============
  * ### Laboratory teaching Assistant ### 
-   (Part Time joj at Politecnico di Torino)
+   (Part Time job at Politecnico di Torino)
    
-   The main objective is to help students enrolled to this course with the solution of their laboratories
+   The main objective is to help students enrolled to the Object Oriented Course course with the solution of their laboratories. The programming language used in this course is Java
+   
  * ### Mu Nu Chapter of IEEE- Eta Kappa Nu ### 
    (Associative Experience at Politecnico di Torino)
+   
     * Events and Foundraising Assistant Oct 2019 - Sep 2020
     * Communication Assistant Oct 2018 - Sep 2019
  * ### Mentoring - Polito for Women (WeAreHERe) ###
+   (Part Time job at Politecnico di Torino)
    
    We Are HERe is the Politecnico's communication campaign to promote female enrollment in Engineering courses. The aim of this campaign is to support both future and just enrolled female students.
 
